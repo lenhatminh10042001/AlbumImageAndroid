@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mniBrighter"
+        android:title="Brighter" />
+    <item
+        android:id="@+id/mniFitScreen"
+        android:title="Fit Screen" />
+    <item
+        android:id="@+id/mniZoomIn"
+        android:title="Zoom In" />
+    <item
+        android:id="@+id/mniZoomOut"
+        android:title="Zoom Out" />
+</menu>

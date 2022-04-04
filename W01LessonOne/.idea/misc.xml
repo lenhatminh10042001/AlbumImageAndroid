@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_display_folder.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_display_image.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_grid_view.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_make_folder.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/griditem_file.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/griditem_folder.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/listitem_file.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/layout/listitem_folder.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/menu/display_folder_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/menu/display_image_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/W01LessonOne/app/src/main/res/menu/gridview_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
